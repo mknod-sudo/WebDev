@@ -1,2 +1,2 @@
 # WebDev
-This is a extension for VS Code
+This is an extension for VS Code
